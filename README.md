@@ -1,5 +1,10 @@
 # vue-components-comunicacao
 
+## Este diretório contém o código praticado na seção 7 do curso vuejs-guia-completo.<br>
+Link do curso na Udemy: https://www.udemy.com/course/vue-js-guia-completo
+
+
+
 ## Project setup
 ```
 npm install
