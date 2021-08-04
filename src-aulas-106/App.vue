@@ -15,7 +15,7 @@
 </template>
 
 <script>
-import FilmesLista from '../src/components/FilmesLista.vue'
+import FilmesLista from './components/FilmesLista.vue'
 
 export default {
   components: {
